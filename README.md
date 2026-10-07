@@ -1,2 +1,2 @@
-# my__project
+# my_project
 a sample mini project
